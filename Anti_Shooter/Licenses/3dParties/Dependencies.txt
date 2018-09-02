@@ -1,0 +1,15 @@
+This project uses the following 3d parties software:
+
+Blender
+	Home page: https://www.blender.org/
+	Licence: https://www.blender.org/about/license/
+	
+Unreal Engine 4
+	Home page: https://www.unrealengine.com/en-US/what-is-unreal-engine-4
+	Licence: https://www.unrealengine.com/en-US/eula
+	
+Some other 3d parties have been used in this project. These licence are included in same folder as this document.
+
+Font in game: https://www.unrealengine.com/en-US/eula
+Music in game was created using the following web program: https://www.beepbox.co/
+The explosion sound are from a Humble Bundle with Cry Engine assets.
